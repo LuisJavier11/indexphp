@@ -1,0 +1,14 @@
+input{
+    border-radius: 15px;
+    padding: 2px;
+    }
+
+select[name="marca"]{
+
+border-radius: 20px;
+
+padding: 1px;
+
+border: 2px solid black;
+
+}
